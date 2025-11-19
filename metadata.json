@@ -1,0 +1,7 @@
+{
+  "name": "NEXA AGI OS v7.3",
+  "description": "Adaptive AGI OS v7.3 with Universal File Upload Intelligence, Gemini Live Audio, and Strict Tool Execution.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
